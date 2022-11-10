@@ -17,6 +17,6 @@ Yifu Hou - UChicago MSCAPP 23'
 
 ### In this Repository
 
-**data** Data repository for data cleaning and processing
-**model** Machine learning model implementation 
-**README.md** This file
+**data** Data repository for data cleaning and processing </p>
+**model** Machine learning model implementation </p>
+**README.md** This file </p>
