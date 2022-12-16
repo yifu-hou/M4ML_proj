@@ -4,9 +4,9 @@ Machine Learning project - Book Recommendation System with ALS methods
 ### About this project
 
 ##### Members
-Anthony Hakim - UChicago MSCAPP 23'
-Victor Martin - UChicago MSCAPP 23'
-Yifu Hou - UChicago MSCAPP 23'
+Anthony Hakim - UChicago MSCAPP 23' </p>
+Victor Martin - UChicago MSCAPP 23' </p>
+Yifu Hou - UChicago MSCAPP 23' </p>
 
 ##### Goal
 
